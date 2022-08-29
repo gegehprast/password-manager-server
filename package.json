@@ -1,7 +1,7 @@
 {
-  "name": "express-typescript-boilerplate",
-  "version": "1.2.7",
-  "description": "",
+  "name": "password-manager",
+  "version": "0.0.1",
+  "description": "  ",
   "main": "build/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,8 +13,12 @@
     "prod": "set APP_ENV=production && node . --unhandled-rejections=warn",
     "start": "npm run prod"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Gegeh Prast",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gegehprast/password-manager.git"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@types/express": "^4.17.13",
     "@types/node": "^18.7.12",
