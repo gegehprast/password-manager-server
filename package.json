@@ -16,7 +16,7 @@
   "author": "Gegeh Prast",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gegehprast/password-manager.git"
+    "url": "https://github.com/gegehprast/password-manager-server.git"
   },
   "license": "MIT",
   "devDependencies": {
